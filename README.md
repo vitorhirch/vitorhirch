@@ -5,12 +5,11 @@
   
 </h1>
    
-Artista visual autodidata com formação em Design de Produto. Atualmente estudo Desenvolvimento de Software Multiplataforma na FATEC, trabalhei durante anos em diferentes áreas criativas como:
-- Tatuagens, murais, graffitis e ilustrações.
+**Artista visual** autodidata com formação em **Design de Produto**. Atualmente estudo **Desenvolvimento de Software Multiplataforma** na FATEC, trabalhei durante anos em diferentes áreas criativas como: *Tatuagens, murais, graffitis e ilustrações.*
 
-Mas minha curiosidade e inquietação aos poucos tem me levando para a área de tecnologia. Em 2024 participei do programa Desenvolve da Boticário com foco em UX Design, posteriormente participei de alguns hackathons e atuei como freelancer em UX e UI, mas agora desejo me aprofundar em desenvolvimento, busco com meus estudos aprender a estruturar minhas ideias e unir minha criatividade com programação. 
+Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para a área de tecnologia. Em 2024 participei do programa **Desenvolve** do grupo **Boticário** com foco em **UX Design**, posteriormente participei de alguns hackathons e atuei como freelancer em UX e UI, mas agora desejo me aprofundar em desenvolvimento, por isso busco com meus estudos aprender a estruturar minhas ideias e unir minha criatividade com programação. Fique a vontade para conhecer meu trabalho e me acompanhar nesta jornada.  
 
-### Skills de programação
+### Skills de Programação
 
 <div style "display: inLine">
            
@@ -24,7 +23,7 @@ Mas minha curiosidade e inquietação aos poucos tem me levando para a área de 
  </div>         
           
 
-### Skills de design 
+### Skills de Design  
 <div style "display: inLine">
   
  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />       
@@ -34,7 +33,7 @@ Mas minha curiosidade e inquietação aos poucos tem me levando para a área de 
 
 ## 
 
-### Você pode me encontrar em:
+### Você também pode me encontrar em:
 <a href="https://www.linkedin.com/in/vitor-hirch/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
