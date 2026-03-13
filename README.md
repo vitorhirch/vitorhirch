@@ -1,11 +1,14 @@
-## Oi, Vitor Hirch aqui 👋
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=600&size=32&duration=4000&pause=5000&color=FFFFFF&vCenter=true&repeat=false&width=330&lines=Ol%C3%A1!+eu+sou+o+Vitor." alt="Typing SVG" />
+  </a>
+  
+</h1>
+   
+Artista visual autodidata com formação em Design de Produto. Atualmente estudo Desenvolvimento de Software Multiplataforma na FATEC, trabalhei durante anos em diferentes áreas criativas como:
+- Tatuagens, murais, graffitis e ilustrações.
 
-Artista visual autodidata com formação de Design de Produto. Atualmente estudo Desenvolvimento de Software na FATEC, trabalhei durante anos na área criativa:
-- Tatuagens 
-- Murais e Graffitis
-- Ilustrações
-
-Mas minha curiosidade e inquietação aos poucos foi me levando para a área de tecnologia, em 2024 participei do programa Desenvolve da Boticário com foco em UX Design, posteriormente participei de alguns hackathons e atuei como freelancer em UX e UI, mas agora desejo me aprofundar em desenvolvimento.
+Mas minha curiosidade e inquietação aos poucos tem me levando para a área de tecnologia. Em 2024 participei do programa Desenvolve da Boticário com foco em UX Design, posteriormente participei de alguns hackathons e atuei como freelancer em UX e UI, mas agora desejo me aprofundar em desenvolvimento, busco com meus estudos aprender a estruturar minhas ideias e unir minha criatividade com programação. 
 
 ### Skills de programação
 
@@ -37,5 +40,8 @@ Mas minha curiosidade e inquietação aos poucos foi me levando para a área de 
 </a>
 <a href="https://www.instagram.com/vitor.hirch/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.behance.net/hirchart">
+  <img src="https://img.shields.io/badge/Behance-%230057FF?style=for-the-badge&logo=Behance&logoColor=white">
 </a>
           
