@@ -9,7 +9,7 @@
 
 Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para a área de tecnologia. Em 2024 participei do programa **Desenvolve** do grupo **Boticário** com foco em **UX Design**, posteriormente participei de alguns hackathons e atuei como freelancer em UX e UI, mas agora desejo me aprofundar em desenvolvimento, por isso busco com meus estudos aprender a estruturar minhas ideias e unir minha criatividade com programação. Fique a vontade para conhecer meu trabalho e me acompanhar nesta jornada.  
 
-### Skills de Programação
+### Skills de Programação (em desenvolvimento)
 
 <div style "display: inLine">
            
