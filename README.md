@@ -11,8 +11,7 @@ Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para 
 
 ### Skills de Programação (em desenvolvimento)
 
-<p align="left">
-           
+<div align="left">
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />            
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />            
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />         
@@ -20,11 +19,11 @@ Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para 
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</p>        
+</div>        
           
 
 ### Skills de Design  
-<div style "display: inLine">
+<div style align="left">
   
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />       
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />           
