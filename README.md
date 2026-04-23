@@ -9,15 +9,15 @@
 
 Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para a área de tecnologia. Em 2024 participei do programa **Desenvolve** do grupo **Boticário** com foco em **UX Design**, posteriormente participei de alguns hackathons e atuei como freelancer em UX e UI, mas agora desejo me aprofundar em desenvolvimento, por isso busco com meus estudos aprender a estruturar minhas ideias e unir minha criatividade com programação. Fique a vontade para conhecer meu trabalho e me acompanhar nesta jornada.  
 
-### Skills de Programação (em desenvolvimento)
+### Tecnologias 
 
 <div align="left">
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />         <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />         
- <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+ <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />       
 </div>        
           
 
-### Skills de Design  
+### Design  
 <div style align="left">
   
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />       
