@@ -11,7 +11,7 @@ Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para 
 
 ### Skills de Programação (em desenvolvimento)
 
-<div style "display: inLine">
+<p align="left">
            
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />            
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />            
@@ -20,7 +20,7 @@ Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para 
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
  <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
- </div>         
+</p>        
           
 
 ### Skills de Design  
