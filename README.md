@@ -39,9 +39,7 @@ Entretanto minha curiosidade e inquietação aos poucos tem me direcionado para 
 <a href="https://www.linkedin.com/in/vitor-hirch/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/vitor.hirch/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
+
 <a href="https://www.behance.net/hirchart">
   <img src="https://img.shields.io/badge/Behance-%230057FF?style=for-the-badge&logo=Behance&logoColor=white">
 </a>
